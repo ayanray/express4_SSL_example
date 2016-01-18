@@ -1,0 +1,25 @@
+{
+  "name": "express4_SSL_example",
+  "version": "0.1.0",
+  "description": "Working example showing Express 4 and SSL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ayanray/express4_SSL_example.git"
+  },
+  "keywords": [
+    "Express",
+    "4",
+    "SSL",
+    "HTTPS",
+    "TLS/SSL"
+  ],
+  "author": "Ayan Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayanray/express4_SSL_example/issues"
+  }
+}

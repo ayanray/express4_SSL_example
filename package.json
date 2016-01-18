@@ -1,7 +1,7 @@
 {
   "name": "express4_SSL_example",
   "version": "0.1.0",
-  "description": "Working example showing Express 4 and SSL",
+  "description": "Working example showing Express 4 and SSL. More info at http://blog.ayanray.com/2015/06/adding-https-ssl-to-express-4-x-applications/",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",

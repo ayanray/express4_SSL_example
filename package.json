@@ -4,6 +4,7 @@
   "description": "Working example showing Express 4 and SSL",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"From the author: There are no tests for this package\" && exit 1"
   },
   "repository": {

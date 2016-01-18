@@ -21,5 +21,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ayanray/express4_SSL_example/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3"
   }
 }

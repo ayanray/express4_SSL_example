@@ -32,8 +32,8 @@ app.get('/', function (req, res) {
 
 // HTTPS
 var secureServer = https.createServer({
-    key: fs.readFileSync('private.key'),
-    cert: fs.readFileSync('certificate.pem')
+    key: fs.readFileSync('keys/private.key'),
+    cert: fs.readFileSync('keys/certificate.pem')
   }, app)
   .listen(HTTPS_PORT, function () {
     console.log('Secure Server listening on port ' + HTTPS_PORT);

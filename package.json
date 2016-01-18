@@ -4,7 +4,7 @@
   "description": "Working example showing Express 4 and SSL",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"From the author: There are no tests for this package\" && exit 1"
   },
   "repository": {
     "type": "git",
